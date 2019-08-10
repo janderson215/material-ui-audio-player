@@ -1,0 +1,1 @@
+{"version":3,"file":"main.ac83e5c7276e68c8a3ad.bundle.js","sources":["webpack:///./src/components/state/player.ts"],"sourcesContent":["export default {\n  STATUS: {\n    PLAY: 'PLAY',\n    PAUSE: 'PAUSE',\n    STOP: 'STOP'\n  },\n  VOLUME: {\n    STATUS: {\n      MUTE: 'MUTE',\n      UNMUTE: 'UNMUTE'\n    },\n    DEFAULT_VALUE: 100\n  }\n};\n"],"mappings":"AAAA","sourceRoot":""}
